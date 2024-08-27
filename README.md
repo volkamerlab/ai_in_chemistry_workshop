@@ -28,7 +28,7 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
-| 1:30-2:00 | Lecture: Intro AI               | Pat Walters                 |
+| 1:30-2:00 | Lecture: Intro to AI and ML     | Pat Walters                 |
 | 2:00-2:30 | Hands-on: [AI techniqiues][1]    | Michael Backenköhler        |
 | 3:00-3:30 | Lectur: Data is key             | Andrea Volkamer             |
 | 3:30-4:00 | Hands-on: [Data exploration][2] | Raquel López-Ríos de Castro |
