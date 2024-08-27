@@ -2,22 +2,22 @@
 
 [7th Artificial Intelligence in Chemistry Symposium](https://www.rscbmcs.org/events/aichem7/) Workshop
 
-Pat Walter, Raquel López-Ríos de Castro, Michael Backenköhler, Andrea Volkamer
+Pat Walters, Raquel López-Ríos de Castro, Michael Backenköhler, Andrea Volkamer
 
 ## Content
 
-Session 1 
+Session 1
 * Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
 * Molecular representations
 * AI architectures
 
-Session 2 
-* Importance of data quality for AI/ML 
+Session 2
+* Importance of data quality for AI/ML
 * Data processing and exploratory data analysis
 * Applicability domains
 
-Session 3 
-* AI in Practice 
+Session 3
+* AI in Practice
 * Molecule generation
 * Active learning
 
@@ -29,7 +29,7 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
 | 1:30-2:00 | Lecture: Intro AI               | Pat Walters                 |
-| 2:00-2:30 | Hands-on: [AI technqiues][1]    | Michael Backenköhler        |
+| 2:00-2:30 | Hands-on: [AI techniqiues][1]    | Michael Backenköhler        |
 | 3:00-3:30 | Lectur: Data is key             | Andrea Volkamer             |
 | 3:30-4:00 | Hands-on: [Data exploration][2] | Raquel López-Ríos de Castro |
 | 4:30-5:00 | Lecture: AI in practice         | Pat Walters                 |
@@ -49,4 +49,3 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 3. Save a copy in your Google Drive by clicking on `Copy to Drive`.
 4. In the new tab, click on `Connect to environment` (top right). Accept potential warnings about the origin of the notebooks.
 5. Follow the lesson!
-
