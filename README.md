@@ -1,0 +1,2 @@
+# ai_in_chemistry_workshop
+ai_in_chemistry_workshop
