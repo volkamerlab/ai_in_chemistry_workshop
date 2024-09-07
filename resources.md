@@ -31,6 +31,6 @@ To effectively use ML in drug discovery or anywhere else, one needs to understan
 ### Videos
 
 [3Blue1Brown](https://www.3blue1brown.com/) has an excellent introduction to neural networks. Each of these videos is about 20 minutes.
-*[But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=2s)
-*[Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=844s)
-*[What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=481s)
+- [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=2s)
+- [Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=844s)
+- [What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=481s)
