@@ -2,13 +2,13 @@
 
 ### Books
 
-[Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319) - 
+[Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319) -
 This book is probably the best reference for someone who wants to get started about machine learning. It covers a wide range of topics from conventional machine learning approaches to recent deep learning advances.
 
-[Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130) - 
+[Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130) -
 This book provides a great place to start.  It covers Python, statistics, probability, clustering, databases, and some basic machine learning.
 
-[Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) - 
+[Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) -
 To effectively use ML in drug discovery or anywhere else, one needs to understand statistics. This book takes a pragmatic approchwith lots of code examples to help readers to explore concenpts.
 
 
@@ -30,4 +30,7 @@ To effectively use ML in drug discovery or anywhere else, one needs to understan
 
 ### Videos
 
-3Blue1Brown has an excellent introduction to neural networks
+[3Blue1Brown](https://www.3blue1brown.com/) has an excellent introduction to neural networks. Each of these videos is about 20 minutes.
+*[But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk&t=2s)
+*[Gradient descent, how neural networks learn | Chapter 2, Deep learning](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=844s)
+*[What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=481s)
