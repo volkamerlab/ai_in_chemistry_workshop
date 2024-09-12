@@ -36,6 +36,6 @@ To effectively use ML in drug discovery or anywhere else, one needs to understan
 - [What is backpropagation really doing? | Chapter 3, Deep learning](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=481s)
 
 ### Generative Molecular Design
-SMILES-RNN from Morgan Thomas [code](https://github.com/MorganCThomas/SMILES-RNN)
-REINVENT from AstraZeneca [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) [code](https://github.com/MolecularAI/REINVENT4)
-MolMIM from NVIDIA [paper](https://arxiv.org/abs/2208.09016) [demo_notebook](https://docs.nvidia.com/bionemo-framework/latest/notebooks/MolMIM_GenerativeAI_local_inference_with_examples.html)
+- SMILES-RNN from Morgan Thomas [code](https://github.com/MorganCThomas/SMILES-RNN)
+- REINVENT from AstraZeneca [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) [code](https://github.com/MolecularAI/REINVENT4)
+- MolMIM from NVIDIA [paper](https://arxiv.org/abs/2208.09016) [demo_notebook](https://docs.nvidia.com/bionemo-framework/latest/notebooks/MolMIM_GenerativeAI_local_inference_with_examples.html)
