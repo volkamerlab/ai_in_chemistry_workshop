@@ -9,7 +9,7 @@ To apply ML in drug discovery, one has to understand data science. This book pro
 This book is probably the best reference for someone who wants to get started with machine learning. It covers a wide range of topics from conventional machine learning approaches to recent deep learning advances.
 
 [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X) -
-To effectively use ML in drug discovery or anywhere else, one needs to understand statistics. This book takes a pragmatic approchwith lots of code examples to help readers to explore concenpts.
+To effectively use ML in drug discovery or anywhere else, one needs to understand statistics. This book takes a pragmatic approch with lots of code examples to help readers to explore concenpts.
 
 
 ### Tutorials

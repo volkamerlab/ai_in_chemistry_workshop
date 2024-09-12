@@ -50,3 +50,6 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 3. Save a copy in your Google Drive by clicking on `Copy to Drive`.
 4. In the new tab, click on `Connect to environment` (top right). Accept potential warnings about the origin of the notebooks.
 5. Follow the lesson!
+
+## Resources
+[This document](https://github.com/volkamerlab/ai_in_chemistry_workshop/blob/main/resources.md) contains a list of useful resources for learning more about AI in drug discovery.
