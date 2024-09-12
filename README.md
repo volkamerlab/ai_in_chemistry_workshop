@@ -29,7 +29,7 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
 | 1:30-2:00 | Lecture: Intro to AI and ML     | Pat Walters                 |
-| 2:00-2:30 | Hands-on: [AI techniqiues][1]    | Michael Backenköhler        |
+| 2:00-2:30 | Hands-on: [AI techniques][1]    | Michael Backenköhler        |
 | 3:00-3:30 | Lectur: Data is key             | Andrea Volkamer             |
 | 3:30-4:00 | Hands-on: [Data exploration][2] | Raquel López-Ríos de Castro |
 | 4:30-5:00 | Lecture: AI in practice         | Pat Walters                 |
@@ -38,7 +38,7 @@ Date: 2024-09-16, 1:30 - 5:30 pm
 
 <!-- TODO: Update colab links -->
 
-[1]: https://colab.research.google.com/github/PatWalters/test/blob/main/jupyter_test.ipynb
+[1]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_1/Session_1.ipynb
 [2]: https://colab.research.google.com/github/PatWalters/test/blob/main/jupyter_test.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/SMILES_RNN.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop/blob/main/Session_3/active_regression.ipynb
