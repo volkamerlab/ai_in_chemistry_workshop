@@ -40,6 +40,9 @@ To effectively use ML in drug discovery or anywhere else, one needs to understan
 - REINVENT from AstraZeneca [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) [code](https://github.com/MolecularAI/REINVENT4)
 - MolMIM from NVIDIA [paper](https://arxiv.org/abs/2208.09016) [demo_notebook](https://docs.nvidia.com/bionemo-framework/latest/notebooks/MolMIM_GenerativeAI_local_inference_with_examples.html)
 
+### Datasets
+[The Polaris Benchmarking Platform](https://polarishub.io/)
+
 ### Papers
 A few references on key topics
 #### Combining Datasets
@@ -50,5 +53,3 @@ A few references on key topics
 
 #### Model Interpreability
 [Model agnostic generation of counterfactual explanations for molecules](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05259d)
-
-41;2500;0c
