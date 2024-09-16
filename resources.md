@@ -39,3 +39,16 @@ To effectively use ML in drug discovery or anywhere else, one needs to understan
 - SMILES-RNN from Morgan Thomas [code](https://github.com/MorganCThomas/SMILES-RNN)
 - REINVENT from AstraZeneca [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) [code](https://github.com/MolecularAI/REINVENT4)
 - MolMIM from NVIDIA [paper](https://arxiv.org/abs/2208.09016) [demo_notebook](https://docs.nvidia.com/bionemo-framework/latest/notebooks/MolMIM_GenerativeAI_local_inference_with_examples.html)
+
+### Papers
+A few references on key topics
+#### Combining Datasets
+[Combining IC50 or Ki Values from Different Sources Is a Source of Significant Noise](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00049)
+
+#### Imbalanced Datasets
+[GHOST: Adjusting the Decision Threshold to Handle Imbalanced Data in Machine Learning](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00160)
+
+#### Model Interpreability
+[Model agnostic generation of counterfactual explanations for molecules](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05259d)
+
+41;2500;0c
